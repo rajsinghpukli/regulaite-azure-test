@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.env
-.streamlit/
-rag/persist/chats/*.json
-rag/persist/chats/*.log
